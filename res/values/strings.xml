@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Youtube Sample Upload V3</string>
+    <string name="accounts">Accounts</string>
+    <string name="icon_desc">Application icon</string>
+    <string name="title_separator_desc">Title separator</string>
+    <string name="refresh">Refresh</string>
+    <string name="error">Error</string>
+    <string name="error_format">[Error] %s</string>
+    <string name="menu_settings">Settings</string>
+</resources>
