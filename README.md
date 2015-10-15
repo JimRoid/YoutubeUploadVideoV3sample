@@ -25,11 +25,11 @@ create google oauth app install application
  
  ```java
  // youtube 上傳用
- private static String CLIENT_ID = "782371825438-m89u3lg77pmucgfv69prmkqi972fe0tn.apps.googleusercontent.com";
+ private static String CLIENT_ID = "your oauth key client";
  
  // Use your own client id
- private static String CLIENT_SECRET = "0ayCIYhJXVNc563S2UZqvyV-";
+ private static String CLIENT_SECRET = "your client secret key";
  
  // Use your own client secret
- private static String REDIRECT_URI = "https://www.example.com/oauth2callback";
+ private static String REDIRECT_URI = "your oauth REDIRECT_URI";
  ```
