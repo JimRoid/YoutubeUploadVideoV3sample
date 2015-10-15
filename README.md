@@ -21,9 +21,15 @@ create google oauth app install application
 
 ### key setting ###
  * SubmitActivity.class
-  // youtube 上傳用
-	private static String CLIENT_ID = "782371825438-m89u3lg77pmucgfv69prmkqi972fe0tn.apps.googleusercontent.com";
-	// Use your own client id
-	private static String CLIENT_SECRET = "0ayCIYhJXVNc563S2UZqvyV-";
-	// Use your own client secret
-	private static String REDIRECT_URI = "https://www.example.com/oauth2callback";
+  
+ 
+ ```java
+ // youtube 上傳用
+ private static String CLIENT_ID = "782371825438-m89u3lg77pmucgfv69prmkqi972fe0tn.apps.googleusercontent.com";
+ 
+ // Use your own client id
+ private static String CLIENT_SECRET = "0ayCIYhJXVNc563S2UZqvyV-";
+ 
+ // Use your own client secret
+ private static String REDIRECT_URI = "https://www.example.com/oauth2callback";
+ ```
